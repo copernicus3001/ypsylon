@@ -1,0 +1,11 @@
+.header {
+  background-color: indigo;
+  text-align: center;
+  font-size: 15px;
+  padding: 10px;
+  margin-bottom: 35px;
+}
+
+input {
+  max-width: 200px;
+}
